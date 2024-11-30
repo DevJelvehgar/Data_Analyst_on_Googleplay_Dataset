@@ -1,1 +1,2 @@
-# Dataanalyst_on_googleplay_dataset
+# Data Analyst on googleplay dataset
+First Stpe : Clean Size , Reviews , Installs and Last Updated
